@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Cloud.iml" filepath="$PROJECT_DIR$/.idea/Spring-Cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway_main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway_main.iml" group="api-gateway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway_test.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway_test.iml" group="api-gateway" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka_main.iml" group="eureka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka_test.iml" group="eureka" />
+      <module fileurl="file://$PROJECT_DIR$/feign-consumer/feign-consumer.iml" filepath="$PROJECT_DIR$/feign-consumer/feign-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feign-consumer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/feign-consumer_main.iml" group="feign-consumer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feign-consumer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/feign-consumer_test.iml" group="feign-consumer" />
+      <module fileurl="file://$PROJECT_DIR$/hello-service/hello-service.iml" filepath="$PROJECT_DIR$/hello-service/hello-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-service_main.iml" group="hello-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-service_test.iml" group="hello-service" />
+    </modules>
+  </component>
+</project>
