@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="api-gateway_main" target="1.8" />
       <module name="api-gateway_test" target="1.8" />
+      <module name="config-server_main" target="1.8" />
+      <module name="config-server_test" target="1.8" />
       <module name="eureka_main" target="1.8" />
       <module name="eureka_test" target="1.8" />
       <module name="feign-consumer_main" target="1.8" />
